@@ -127,6 +127,4 @@ An end-to-end Excel analytics project analyzing **947,752 orders** across **8 qu
 
 `Amazon Now` | `Big Basket` | `Blinkit` | `Dunzo` | `Flipkart Minutes` | `Jio Mart` | `Swiggy Instamart` | `Zepto`
 
----
 
-*Project created for portfolio purposes — showcasing Excel analytics, pivot tables, dashboard design, and data-driven business insight generation.*
